@@ -91,7 +91,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Common.resx</DependentUpon>
     </Compile>
-    <Compile Include="Shape.cs" />
     <Compile Include="ShapeTest.cs" />
   </ItemGroup>
   <ItemGroup>
